@@ -22,3 +22,44 @@
     background-color: #232323;
   }
 }
+
+.WidgetMain_widgetMain__1_xIm .widgetCard {
+  background-color: #232323 !important;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+.WalletPickerItem_walletPickerItem__3gwCv {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.MEWidget_meWidget__2Rt5n .widgetTop .widgetTitle {
+  padding-top: 40px;
+}
+
+.widgetBody {
+  padding: 20px;
+}
+
+
+.widgetBody .walletTypeSelector .WalletPickerItem_walletPickerItem__3gwCv {
+  border-radius: 20px;
+  transition: all 0.2s;
+}
+
+.widgetBody .walletTypeSelector .WalletPickerItem_walletPickerItem__3gwCv:hover {
+  background-color: #101010;
+}
+
+.wtiImageCon {
+  display: flex;
+  justify-content: center;
+}
+
+.MEButton_meButton__EEJdh {
+  background-color: black;
+}
+
+.MEButton_meButton__EEJdh:hover {
+  background-color: #101010;
+}
