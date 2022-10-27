@@ -65,6 +65,10 @@ const MultiTransfer = () => {
       return;
     }
 
+    if (transactions.length <= 0) {
+      toast.info('You should fill at least one transaction data');
+    }
+
     for (let i = 0; i < transactions.length; i++) {
       const txObject = {
         actions: [
